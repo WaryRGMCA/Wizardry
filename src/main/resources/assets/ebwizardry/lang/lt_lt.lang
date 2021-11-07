@@ -19,14 +19,14 @@ tile.ebwizardry\:dry_frosted_ice.name=Sausas šąlnos ledas
 tile.ebwizardry\:crystal_flower_pot.name=Gėlės vazonas
 tile.ebwizardry\:permafrost.name=Amžinasis įšalas
 
-tile.ebwizardry\:magic_crystal_block.name=Kristalų blokas
-tile.ebwizardry\:fire_crystal_block.name=Ugnies kristalų blokas
-tile.ebwizardry\:ice_crystal_block.name=Ledo kristalų blokas
-tile.ebwizardry\:lightning_crystal_block.name=Vėtros kristalų blokas
-tile.ebwizardry\:necromancy_crystal_block.name=Tamsos kristalų blokas
-tile.ebwizardry\:earth_crystal_block.name=Žaliujų kristalų blokas
-tile.ebwizardry\:sorcery_crystal_block.name=Mistinių kristalų blokas
-tile.ebwizardry\:healing_crystal_block.name=Šviesos kristalų blokas
+tile.ebwizardry\:magic_crystal_block.name=Kristalo blokas
+tile.ebwizardry\:fire_crystal_block.name=Ugningo kristalo blokas
+tile.ebwizardry\:ice_crystal_block.name=Ledo kristalo blokas
+tile.ebwizardry\:lightning_crystal_block.name=Vėtros kristalo blokas
+tile.ebwizardry\:necromancy_crystal_block.name=Tamsos kristalo blokas
+tile.ebwizardry\:earth_crystal_block.name=Žaliojo kristalo blokas
+tile.ebwizardry\:sorcery_crystal_block.name=Paslaptingo kristalo blokas
+tile.ebwizardry\:healing_crystal_block.name=Šviesos kristalo blokas
 
 tile.ebwizardry\:oak_gilded_wood.name=Paauksuotą ąžuolo mediena
 tile.ebwizardry\:spruce_gilded_wood.name=Paauksuotą eglės mediena
@@ -38,7 +38,7 @@ tile.ebwizardry\:dark_oak_gilded_wood.name=Paauksuotą tamsaus ąžuolo mediena
 tile.ebwizardry\:oak_bookshelf.name=Ąžuolinė knygų lentyna
 tile.ebwizardry\:spruce_bookshelf.name=Eglinė knygų lentyna
 tile.ebwizardry\:birch_bookshelf.name=Beržinė knygų lentyna
-tile.ebwizardry\:jungle_bookshelf.name=Džiunglių knygų lentyna
+tile.ebwizardry\:jungle_bookshelf.name=Džiunglinė knygų lentyna
 tile.ebwizardry\:acacia_bookshelf.name=Akacijinė knygų lentyna
 tile.ebwizardry\:dark_oak_bookshelf.name=Tamsaus ąžuolo knygų lentyna
 
@@ -54,42 +54,42 @@ tile.ebwizardry\:imbuement_altar.name=Įsiurbimo altorius
 
 item.ebwizardry\:crystal_magic.name=Magiškas kristalas
 item.ebwizardry\:crystal_magic.desc=The iridescent colors of this crystal seem to slowly shift and swirl, hinting at a magical energy within. Perhaps this magic could be harnessed, somehow...
-item.ebwizardry\:crystal_fire.name=Fiery Crystal
+item.ebwizardry\:crystal_fire.name=Ugningas kristalas
 item.ebwizardry\:crystal_fire.desc=A crystal that glows a fiery orange. Maybe it is the key to unlocking the element of fire...
-item.ebwizardry\:crystal_ice.name=Icy Crystal
+item.ebwizardry\:crystal_ice.name=Ledo kristalas
 item.ebwizardry\:crystal_ice.desc=A crystal with a cold, bluish tint. Perhaps it holds the secrets to the power of frost...
-item.ebwizardry\:crystal_lightning.name=Stormy Crystal
+item.ebwizardry\:crystal_lightning.name=Vėtros kristalas
 item.ebwizardry\:crystal_lightning.desc=A crystal that seems to swirl and flash with a chaotic energy. Maybe it hides a greater power within...
-item.ebwizardry\:crystal_necromancy.name=Dark Crystal
+item.ebwizardry\:crystal_necromancy.name=Tamsos kristalas
 item.ebwizardry\:crystal_necromancy.desc=A crystal with a deep, purplish appearance that seems to draw you in. Perhaps it is a gateway to something darker...
-item.ebwizardry\:crystal_earth.name=Verdant Crystal
+item.ebwizardry\:crystal_earth.name=Žaliasis kristalas
 item.ebwizardry\:crystal_earth.desc=A crystal patterened with a great many greens and browns. Perhaps it holds a connection to the forces of nature...
-item.ebwizardry\:crystal_sorcery.name=Mystical Crystal
+item.ebwizardry\:crystal_sorcery.name=Paslaptingo kristalas
 item.ebwizardry\:crystal_sorcery.desc=A crystal that glimmers with a bluish-green light. Maybe it conceals the secrets of an ancient force...
-item.ebwizardry\:crystal_healing.name=Radiant Crystal
+item.ebwizardry\:crystal_healing.name=Šviesos kristalo
 item.ebwizardry\:crystal_healing.desc=A crystal that glints a golden yellow in the sunlight. Perhaps it possesses the link to a divine power...
 
-item.ebwizardry\:spell_book.name=Spell Book
+item.ebwizardry\:spell_book.name=Burtų knyga
 item.ebwizardry\:spell_book.desc=A book filled with the runes and glyphs of an ancient script. Perhaps with dedication, one might be able to decipher its contents...\n\nRight-click while holding this book to read it.
-item.ebwizardry\:spell_book.new=Not yet discovered!
-item.ebwizardry\:spell_book.apply_to_wizard=Replaced %1$s's spell %2$s with %3$s
+item.ebwizardry\:spell_book.new=Dar neatrasta!
+item.ebwizardry\:spell_book.apply_to_wizard=Pakeistas %1$s keras %2$s su %3$s
 
-item.ebwizardry\:ruined_spell_book.name=Ruined Spell Book
+item.ebwizardry\:ruined_spell_book.name=Sunaikinta burtų knyga
 item.ebwizardry\:ruined_spell_book.desc=The pages of this tattered spell book are too damaged to be read properly, but somehow, you feel there is still magic left within it - if only it could be restored...
 
-item.ebwizardry\:arcane_tome.name=Tome of Arcana
+item.ebwizardry\:arcane_tome.name=Arkanos tomas
 item.ebwizardry\:arcane_tome.desc=Upgrades any %1$s wand with sufficient progression to %2$s tier
 
-item.ebwizardry\:wizard_handbook.name=The Wizard's Handbook
-item.ebwizardry\:wizard_handbook.author=by %1$s
+item.ebwizardry\:wizard_handbook.name=Burtininko vadovas
+item.ebwizardry\:wizard_handbook.author=parašė %1$s
 item.ebwizardry\:wizard_handbook.desc=Your not-so-pocket-sized guide to the arcane arts! A must-have for any aspiring wizard who seeks to learn the secrets of magic.\n\nRight-click while holding this book to read it.
 
-item.ebwizardry\:wand.generic=wand
+item.ebwizardry\:wand.generic=burtų lazdelė
 
-item.ebwizardry\:wand.buff=+%1$s%% %2$s potency
-item.ebwizardry\:wand.spell=Current Spell\: %1$s
+item.ebwizardry\:wand.buff=+%1$s%% %2$s stiprumas
+item.ebwizardry\:wand.spell=Burtas\: %1$s
 item.ebwizardry\:wand.mana=Mana\: %1$s/%2$s
-item.ebwizardry\:wand.progression=Progression\: %1$s/%2$s
+item.ebwizardry\:wand.progression=Progresija\: %1$s/%2$s
 
 item.ebwizardry\:wand.levelup=%1$s is ready to upgrade to %2$s tier
 
